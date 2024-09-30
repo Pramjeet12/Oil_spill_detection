@@ -45,4 +45,5 @@ The Random Forest model is trained using features extracted from the Sentinel-1 
 The model's predictions were validated against ground truth data, demonstrating a high degree of accuracy in identifying oil spills.
 
 ## Screenshots
+![Screenshot (171)](https://github.com/user-attachments/assets/b10813ad-77e5-4642-9991-a30a2607eb4b)
 
